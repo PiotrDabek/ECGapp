@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECGApp</string>
+    <string name="START">START</string>
+    <string name="info_text">Aplikacja ta powstała na potrzeby pracy inżynierskiej pod tytułem" Przenosne urzadzenie do rejestrowania arytmii serca.\n\n Aplikacja współpracuje z modułem pomiarowym wysyłającym dane w postaci bajtów. Przed włączeniem trybu monitorowania urządzenia należy sparować w ustawieniach Bluetooth. \n\n Kontakt e-mail: piotrdabek94@gmail.com "</string>
+</resources>
