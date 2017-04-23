@@ -10,6 +10,8 @@ W celu ustanowienia połączenia między urządzeniami muszą one być wcześnie
 
 Instrukcja:
 
+<img src="https://github.com/PiotrDabek/ECGapp/blob/master/Screenshot_2017-04-23-19-39-18.png" width="350">
+
 Plany rozwoju:
 - możliwość oddtwarzania wcześniej zarejestrowanych pomiarów
 - analiza zapisanych pomiarów umożliwiająca określenie tętna
